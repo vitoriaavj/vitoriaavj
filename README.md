@@ -1,8 +1,8 @@
 # 🎐Sobre mim!
 
-👋 Eu chamo **Vitória Silva**, tenho 19 anos e sou de Aracaju, SE<br/>
-📚 Atualmente cursando **Engenharia de Software** na Gran Faculdade<br/>
-💻 Tenho um **interesse especial em análise de dados e automações**<br/>
+👋 Eu chamo **Vitória Silva**, tenho 19 anos e sou de Aracaju, SE.<br/>
+📚 Atualmente cursando **Engenharia de Software** na Gran Faculdade.<br/>
+💻 Tenho um **interesse especial em análise de dados e automações**!<br/>
 👩🏻‍💻 Não tenha medo de começar uma coisa nova, nunca é tarde de mais para começar a aprender!
 
 Vamos nos conectar!<br/>
