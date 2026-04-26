@@ -4,8 +4,10 @@
 
 Olá! Me chamo Vitória e sou de Aracaju, SE.
 
-Atualmente, sou estudante de Engenharia de Software, sempre em busca de novos desafios. Tenho um interesse especial em análise de dados e na construção de soluções eficientes. Aqui no GitHub, você encontrará os projetos que venho desenvolvendo na minha jornada de aprendizado.
-br
+Atualmente, sou estudante de Engenharia de Software, sempre em busca de novos desafios. 
+<br/>
+Tenho um interesse especial em análise de dados e na construção de soluções eficientes. Aqui no GitHub, você encontrará os projetos que venho desenvolvendo na minha jornada de aprendizado.
+<br/>
 Não tenha medo de começar uma coisa nova, nunca é tarde de mais para começar a aprender!
 
 Vamos nos conectar!
@@ -58,7 +60,4 @@ Vamos nos conectar!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<br/>
-<br/>
 
