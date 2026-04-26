@@ -1,15 +1,10 @@
 # 👩🏻‍💻 Vitória 
 
-**`Desenvolvedora`**
+# 🎐Sobre mim!
 
-Olá! Me chamo Vitória e sou de Aracaju, SE.
-
-Atualmente, sou estudante de Engenharia de Software, sempre em busca de novos desafios. 
-<br/>
-Tenho um interesse especial em análise de dados e na construção de soluções eficientes. 
-<br/>
-Aqui no GitHub, você encontrará os projetos que venho desenvolvendo na minha jornada de aprendizado.
-<br/>
+👋 Eu chamo **Vitória Silva** tenho 19 anos e sou de Aracaju, SE<br/>
+📚 Atualmente cursando **Engenharia de Software** na Gran Faculdade<br/>
+💻 Tenho um **interesse especial em análise de dados e automações**<br/>
 Não tenha medo de começar uma coisa nova, nunca é tarde de mais para começar a aprender!
 
 Vamos nos conectar!
@@ -18,48 +13,16 @@ Vamos nos conectar!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,git,github,html,css,js,nodejs)](https://skillicons.dev)
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carloscb124/Carloscb124/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carloscb124/Carloscb124/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Carloscb124/Carloscb124/output/pacman-contribution-graph.svg">
+</picture>
+
 
